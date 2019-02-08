@@ -1,7 +1,7 @@
 # Correlation-Coefficient
 Program to calculate the Correlation Coefficient
 
-##Usage
+## Usage
 
 Substitute the arrays Xnum and Ynum for the two sets of data needed for the calculation, and substitute the size variable for the size of the array.
 
